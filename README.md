@@ -27,3 +27,9 @@ JSON:
     "netSalary": 3268.30
 }
 ```
+
+## Valores configuráveis:
+Os valores abaixo encontram-se no arquivo  ```src/main/resources/aplication.properties```.
+- ```ir```: 0.275
+- ```inss```: 0.08
+- ```deduction-by-dependent```: 189.59
