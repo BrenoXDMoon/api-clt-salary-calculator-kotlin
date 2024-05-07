@@ -1,6 +1,6 @@
 # api-clt-salary-calculator-kotlin
 
-API REST para cálculo de salário CLT.
+API REST para cálculo de salário CLT. Os valores apresentados neste sistema são apenas para exemplo.
 
 ## Entradas:
 
