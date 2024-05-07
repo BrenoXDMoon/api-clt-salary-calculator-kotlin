@@ -1,6 +1,6 @@
 # api-clt-salary-calculator-kotlin
 
-API REST para cálculo de salário CLT. Os valores apresentados neste sistema são apenas para exemplo.
+API REST para cálculo de salário CLT. Os valores apresentados neste sistema são apenas para exemplo. É possível configurar a porcentagem dos impostos de INSS e IR, assim como a dedução por dependêntes.
 
 ## Entradas:
 
@@ -24,7 +24,7 @@ JSON:
 JSON:
 ```
 {
-    "netSalary": 3268.30
+    "netSalary": 0000
 }
 ```
 
